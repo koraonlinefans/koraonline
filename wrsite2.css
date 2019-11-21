@@ -27,8 +27,9 @@ a {
   content: "";
   display: block;
 }
-/* .site_footer, .page_wrap:after {
-  height: 25px; 
+/* .site_footer, .page_wrap:after { */
+.page_wrap:after {
+  height: 25px;
 }
 .page_header {
   /*padding-top: 40px;*/
